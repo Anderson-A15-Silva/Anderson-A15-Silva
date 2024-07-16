@@ -1,4 +1,26 @@
-📚 Eu atualmente estudo sobre Java.Script (Bourne Again Shell, Git, ...)
-📚 Eu atualmente participo do curso "3.000 Talentos TI".
-✉️ Contato: andersonadsilva15@gmail.com
-👦 Pronomes: Ele/Dele.
+## Hello! 👋
+*My name is Anderson, and I'm sixteen years old. Nice to meet you!*
+
+- 👤 Pronouns: He/Him
+  
+- 📚 Occupation: I am currently a Typescript student with experience in Javascript and Kotlin development.
+  
+- 💻 Contact: andersonadsilva15@gmail.com
+
+
+### Soft Skills
+- Communication: Effective verbal and written communication skills.
+  
+- Teamwork: Collaborative and supportive team player.
+  
+- Adaptability: Flexible and open to learning new concepts.
+
+### Hard Skills
+- Background: I studied Office Package (Word, Powerpoint and Excel) at NEABI Unisinos. I completed Senac's 3000 IT Talents course with a focus on Soft Skills and Frontend with ReactJS. Currently learning Kotlin for Frontend mobile development and improving my Javascript skills through courses on Danki Code and Video Course.
+
+- Curiosities: I'm passionate about learning new technologies and enjoy frontend development for websites and applications. My future goal is to work in the Software Engineering field.
+
+<div style="display:inline_block;">
+  <img src="https://github.com/user-attachments/assets/6ac8bf63-6354-45b0-9b43-ea77afa6a461">
+  <img src="https://github.com/user-attachments/assets/4d873985-0751-43d8-a11e-a1afe78b9926">
+</div>
