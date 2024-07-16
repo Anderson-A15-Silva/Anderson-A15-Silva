@@ -21,6 +21,8 @@
 - Curiosities: I'm passionate about learning new technologies and enjoy frontend development for websites and applications. My future goal is to work in the Software Engineering field.
 
 <div style="display:inline_block;">
+  <img src="https://github.com/user-attachments/assets/f75077e4-b175-4709-a531-10ffb09c259e">
+  <img src="https://github.com/user-attachments/assets/54c4faf3-5634-4e2b-bf8f-7bdee66413df">
   <img src="https://github.com/user-attachments/assets/6ac8bf63-6354-45b0-9b43-ea77afa6a461">
   <img src="https://github.com/user-attachments/assets/4d873985-0751-43d8-a11e-a1afe78b9926">
 </div>
